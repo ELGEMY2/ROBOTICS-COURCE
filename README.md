@@ -1,6 +1,2 @@
 # ROBOTICS-COURCE
 
-first
-
-
-WELCOME
